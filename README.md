@@ -1,2 +1,2 @@
 # cpp-carnival
-Some practice in cpp.
+Some leetcode practice in cpp.
